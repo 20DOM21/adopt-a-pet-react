@@ -21,7 +21,6 @@ const PetDetailsPage = () => {
       setLoading(false);
     }
     
-
     getPetsData();
   }, [id]);
 
